@@ -1,6 +1,6 @@
 {
-  "name": "reactPokedex",
-  "homepage": "https://szymonkolodziejczyk.github.io/reactPokedex/",
+  "name": "reactpokedex",
+  "homepage": "https://szymonkolodziejczyk.github.io/reactPokedex",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
