@@ -2,4 +2,4 @@
 
 Pokedex created with React.
 
-Check the working project here(https://szymonkolodziejczyk.github.io/reactPokedex)!
+Check the working project [here](https://szymonkolodziejczyk.github.io/reactPokedex)!
